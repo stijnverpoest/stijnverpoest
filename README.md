@@ -1,6 +1,6 @@
-### Hi there 👋
-🔭 I’m currently working on a data analysis of graduate students for my masters' thesis in R.
-🌱 I’m currently learning Python and Pyspark.
+## Hi there 👋
+🔭 I’m currently working on a data analysis of graduate students for my masters' thesis in R. <br/>
+🌱 I’m currently learning Python and Pyspark. <br/>
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/stijn-verpoest/)
 
 <!--[![Stijn Verpoest's github stats](https://github-readme-stats.vercel.app/api?username=stijnverpoest)](https://github.com/anuraghazra/github-readme-stats) -->
