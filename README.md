@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Stijn Verpoest's github stats](https://github-readme-stats.vercel.app/api?username=stijnverpoest)](https://github.com/anuraghazra/github-readme-stats)
+🔭 I’m currently working on a data analysis of graduate students for my masters' thesis in R.
+🌱 I’m currently learning Python and Pyspark.
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/stijn-verpoest/)
+
+<!--[![Stijn Verpoest's github stats](https://github-readme-stats.vercel.app/api?username=stijnverpoest)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **stijnverpoest/stijnverpoest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
