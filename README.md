@@ -1,6 +1,6 @@
 ## Hi, my name is Stijn!
-⚡ Passionate Business Engineering student, majoring in Data Science. <br/>
-🔭 At the moment I'm working on a data analysis of graduate students in R for my master's thesis. <br/>
+🎓 Passionate Business Engineering student, majoring in Data Science. <br/>
+⚡ At the moment I'm working on a data analysis of graduate students in R for my master's thesis. <br/>
 🌱 I’m currently learning Python and PySpark. <br/>
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/stijn-verpoest/)
 
