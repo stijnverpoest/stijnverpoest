@@ -1,7 +1,7 @@
 ## Hi, my name is Stijn!
-🎓 Passionate Business Engineering student, majoring in Data Science and Business Analytics. <br/>
-⚡ At the moment, I'm working on a data analysis of graduate students in R for my master's thesis. <br/>
-🌱 I’m currently improving my Python skills. <br/>
+⚡ Working as a Credit Risk Modeller at a large Belgian bank. <br/>
+🎓 Graduated as a Business Engineering student, with a major in Data Science and Business Analytics. <br/>
+🌱 Currently improving my machine learning and web scraping skills. <br/>
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/stijn-verpoest/).
 
 <!--[![Stijn Verpoest's github stats](https://github-readme-stats.vercel.app/api?username=stijnverpoest)](https://github.com/anuraghazra/github-readme-stats) -->
