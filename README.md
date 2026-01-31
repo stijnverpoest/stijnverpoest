@@ -1,5 +1,5 @@
 ## Hi, my name is Stijn!
-⚡ Working as a Credit Risk Modeller at a large Belgian bank. <br/>
+⚡ Working as Data Scientist. <br/>
 🎓 Graduated as a Business Engineering student, with a major in Data Science and Business Analytics. <br/>
 🌱 Currently improving my machine learning and web scraping skills. <br/>
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/stijn-verpoest/).
